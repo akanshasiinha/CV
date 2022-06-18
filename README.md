@@ -1,4 +1,4 @@
-# AKANSHA SINHA 
+# Akansha Sinha 
 
 _Oracle Cloud WMS Consultant based in Bengaluru, India_ <br>
 
