@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: 💻✒️☁️
 description: Akansha Sinha's CV
 future: true
+layout: default
